@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-    <a href="[https://github.com/andrencor](https://tryhackme.com/p/andre.ncor)">
+    <a href="https://tryhackme.com/p/andre.ncor">
         <img src="https://tryhackme-badges.s3.amazonaws.com/andre.ncor.png" alt="TryHackMe">
     </a>
 </div>
