@@ -6,6 +6,8 @@
 <br>
 <br>
 
+<img align="center" src="https://tryhackme-badges.s3.amazonaws.com/andre.ncor.png" alt="TryHackMe">
+
 <div align="center">
     <a href="https://github.com/andrencor">
         <img height="175em" src="https://github-readme-stats.vercel.app/api?username=andrencor&theme=dark&show_icons=true&include_all_commits=true&count_private=true"/>
