@@ -5,10 +5,13 @@
 
 <br>
 <br>
-<script src="https://tryhackme.com/badge/1283556"></script>
+
 <div align="center">
 <img align="center" src="https://tryhackme-badges.s3.amazonaws.com/andre.ncor.png" alt="TryHackMe">
 </div>
+
+<br>
+<br>
 
 <div align="center">
     <a href="https://github.com/andrencor">
