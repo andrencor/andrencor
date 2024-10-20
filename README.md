@@ -7,9 +7,7 @@
 <br>
 
 <div align="center">
-    <a href="https://tryhackme.com/p/andre.ncor">
-        <img src="https://tryhackme-badges.s3.amazonaws.com/andre.ncor.png" alt="TryHackMe">
-    </a>
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1283556" style='border:none;'></iframe>
 </div>
 
 <br>
