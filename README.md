@@ -1,6 +1,6 @@
 <div align="center">
     <h2>Hey, I'm André!</h2>
-    <p><em>Cybersecurity student.</em></p>
+    <p><em>Cybersecurity | Software Development</em></p>
 </div>
 
 <br>
